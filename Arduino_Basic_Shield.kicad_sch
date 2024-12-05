@@ -1,0 +1,55 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "8fbc96cc-cf54-4fa5-83d4-0f95112702b8")
+	(paper "A4")
+	(title_block
+		(title "Arduino_Basic_Shield_PWR")
+		(rev "Rev 0.1")
+	)
+	(lib_symbols)
+	(sheet
+		(at 127 41.91)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf55f48b-8ccf-407f-b483-1430c88cf7ba")
+		(property "Sheetname" "Main"
+			(at 127 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 127 46.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Arduino_Basic_Shield"
+				(path "/8fbc96cc-cf54-4fa5-83d4-0f95112702b8"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
