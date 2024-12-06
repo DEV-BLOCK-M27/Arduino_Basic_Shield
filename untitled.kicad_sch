@@ -2489,6 +2489,15 @@
 				(hide yes)
 			)
 		)
+		(property "devnote" "Digital 1"
+			(at 82.55 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3fe939b6-4d17-4fe6-9b84-145a6a3c8852")
 		)
@@ -2616,7 +2625,7 @@
 				(hide yes)
 			)
 		)
-		(property "devnote" ""
+		(property "devnote" "LED_5V0"
 			(at 64.262 87.376 0)
 			(show_name yes)
 			(effects
@@ -2925,15 +2934,6 @@
 				(hide yes)
 			)
 		)
-		(property "devnote" ""
-			(at 86.106 78.74 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "7c5d5be8-897a-4bac-ac37-7807e6f64ac0")
 		)
@@ -3104,7 +3104,7 @@
 				(hide yes)
 			)
 		)
-		(property "devnote" ""
+		(property "devnote" "LED_3V3"
 			(at 64.262 78.486 0)
 			(show_name yes)
 			(effects
@@ -3429,6 +3429,15 @@
 				(hide yes)
 			)
 		)
+		(property "devnote" "Power"
+			(at 107.95 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b5e40b16-ef8c-4af2-8df7-8377dc537f46")
 		)
@@ -3557,6 +3566,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "devnote" "Digital 2"
+			(at 95.25 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3867,6 +3885,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "devnote" "Analog"
+			(at 128.27 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
